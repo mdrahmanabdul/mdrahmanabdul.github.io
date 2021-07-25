@@ -1,0 +1,102 @@
+.bodyofsite
+{
+  background-color: #CDF0EA;
+  font-family: cursive;
+}
+
+
+/*navigation bar*/
+.navbar-brand
+{
+  padding-right: 50%;
+  font-family: cursive;
+}
+/* Profile Image*/
+.myImage
+{
+  border-radius: 50%;
+  height: 250px;
+  margin-left: 600px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  border-style: dotted;
+  border-color: black;
+}
+/* Paragraph */
+p
+{
+  color: black;
+  font-family: canela;
+  margin-left: 40px;
+  font-size: 25px;
+}
+/*bmw tiger bike image */
+.imagesOfBike
+{
+  transform: rotate(-20deg);
+  height:200px;
+  width: 300px;
+  border-style: dashed;
+  border-color: black;
+  margin-left: 200px;
+  margin-right: 200px;
+  border-radius: 15%;
+}
+.imagesOfBike:hover
+{
+  height:250px;
+  width:350px;
+}
+.specialTalentsTable
+{
+  margin-top: 100px;
+  margin-left: 50px;
+
+}
+.codingTable
+{
+  margin-top: 100px;
+}
+.technophileTable
+{
+  margin-top: 100px;
+}
+/*--BOOK IMAGES*/
+.booksTable
+{
+  margin-left: 12px;
+}
+.bookImages
+{
+  margin-top: 100px;
+  height: 400px;
+  width: 200px;
+}
+.bookDescription
+{
+  margin-top: 100px;
+  margin-right: 250px;
+  margin-left: 50px;
+}
+.imagesOfboy
+{
+  margin-top: 75px;
+  transform: rotate(-20deg);
+  height:200px;
+  width: 300px;
+  border-style: inset;
+  border-color: black;
+  margin-left: 200px;
+  margin-right: 200px;
+  border-radius: 15%;
+
+}
+.bookSites
+{
+margin-top: 100px;
+}
+h6
+{
+  font-family: sans-serif;
+  margin-top: 75px;
+}
